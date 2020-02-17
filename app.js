@@ -1,2 +1,3 @@
 let user = "kris";
-console.log(`Welcome ${user}`);
+console.log(`Hello ${user}`);
+alert(`Hello ${user}`);
