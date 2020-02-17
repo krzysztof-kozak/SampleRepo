@@ -4,7 +4,7 @@
 
 ### I like cats.
 
-### But not _really_ <-- just learned how to bold in markdown.
+### But not **really** <-- just learned how to bold in markdown.
 
 #### Here is a pointless list:
 
