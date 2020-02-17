@@ -16,4 +16,4 @@
 
 ##### And here is a picture for ya
 
-![Bubek](/home/kris/downloads/cat.jpg)
+![Bubek](https://i.imgur.com/Jvh1OQm.jpg)
