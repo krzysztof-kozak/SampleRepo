@@ -1,6 +1,0 @@
-let user = "kris";
-<<<<<<< HEAD
-console.log(`Welcome ${user}`);
-=======
-console.log(`Hi ${user}`);
->>>>>>> e2a9f543a41c8e143253a82e56a9363045f137c3
